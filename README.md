@@ -65,21 +65,22 @@ Buat file `account.json` di direktori root proyek. File ini menyimpan akun-akun 
 ```json
 [
   {
-    "address": "0xAlamatDompetAnda1",
-    "auth_token": "isi_dari_dynamic_authentication_token",
-    "min_auth_token": "isi_dari_dynamic_min_authentication_token",
+    "address": "Your_Nexus_Address1",
+    "auth_token": "\"Your_Auth_Token\"",
+    "min_auth_token": "\"Your_Min_AuthToken\""
   },
   {
-    "address": "0xAlamatDompetAnda2",
-    "auth_token": "token_Anda_2",
-    "min_auth_token": "min_token_Anda_2",
+    "address": "Your_Nexus_Address2",
+    "auth_token": "\"Your_Auth_Token\"",
+    "min_auth_token": "\"Your_Min_AuthToken\""
   },
   {
-    "address": "0xAlamatDompetAnda3",
-    "auth_token": "token_Anda_3",
-    "min_auth_token": "min_token_Anda_3"
+    "address": "Your_Nexus_Address3",
+    "auth_token": "\"Your_Auth_Token\"",
+    "min_auth_token": "\"Your_Min_AuthToken\""
   }
 ]
+
 ```
 
 > 🔁 Anda bisa menambahkan akun sebanyak yang dibutuhkan. `proxy` opsional.
