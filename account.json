@@ -1,0 +1,7 @@
+[
+  {
+    "address": "Your_Nexus_Address",
+    "auth_token": "\"Your_Auth_Token\"",
+    "min_auth_token": "\"Your_Min_AuthToken\""
+  }
+]
